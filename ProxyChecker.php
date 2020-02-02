@@ -25,7 +25,7 @@ class ProxyChecker extends ListIPs {
     public $check = array();
 
     public function __construct() {
-        $this->check_url = "https://<yourdomain>/gate.php";
+        $this->check_url = "https://yourdomain/gate.php";
         file_put_contents("ergebnisse", "");
     }
 
