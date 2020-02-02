@@ -2,7 +2,7 @@
 get latest working proxies with php
 
 # Use of PHPProxyBroker
-just change the URL '$this->check_url = "https://<yourdomain>/gate.php";' in the File 'ProxyChecker.php' to your Server 
+just change the URL '$this->check_url = "https:///<yourdomain>/gate.php";' in the File 'ProxyChecker.php' to your Server 
 and put the gate.php there.
   
 # Now start the Script
