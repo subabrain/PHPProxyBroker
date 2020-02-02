@@ -5,10 +5,10 @@ get latest working proxies with php
 just change the URL '$this->check_url = "https://<yourdomain>/gate.php";' in the File 'ProxyChecker.php' to your Server 
 and put the gate.php there.
 
-#Now start the Script
+# Now start the Script
 just use the Code in the 'test.php' File ;)
 
-#Find the results
+# Find the results
 the results are stored in the 'ergebnisse' file
 
 #Have Fun :)
